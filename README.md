@@ -12,13 +12,13 @@ Ini adalah repositori pendukung dari video tutorial singkat (YouTube Shorts) ten
 
 | Hari | Judul | Link Video | File |
 |------|-------|------------|------|
-| Day 1 | Autofill | [Tonton ▶️](https://youtube.com/shorts/...) | [`Autofill.xlsx`](files/Autofill.xlsx) |
-| Day 2 | Deret Fibonacci dan Fungsi SEQUENCE | [Tonton ▶️](https://youtube.com/shorts/...) | [`Sequence.xlsx`](files/Sequence.xlsx) |
-| Day 3 | Custom List | [Tonton ▶️](https://youtube.com/shorts/...) | [`CustomList.xlsx`](files/CustomList.xlsx) |
-| Day 4 | Unhide Column, Row, & Cell | [Tonton ▶️](https://youtube.com/shorts/...) | [`Unhide.xlsx`](files/Unhide.xlsx) |
-| Day 5 | Skip Blank | [Tonton ▶️](https://youtube.com/shorts/...) | [`SkipBlank.xlsx`](files/SkipBlank.xlsx) |
-| Day 6 | Autofit | [Tonton ▶️](https://youtube.com/shorts/...) | [`Autofit.xlsx`](files/Autofit.xlsx) |
-| Day 7 | Transpose Data | [Tonton ▶️](https://youtube.com/shorts/...) | [`Transpose.xlsx`](files/Transpose.xlsx) |
+| Day 1 | Autofill | [Tonton ▶️](https://youtube.com/shorts/dYFpJ_X92Q0?si=aOxSSHbZqOIckS2Y) | [`Autofill.xlsx`](files/Autofill.xlsx) |
+| Day 2 | Deret Fibonacci dan Fungsi SEQUENCE | [Tonton ▶️](https://youtube.com/shorts/SvmZD7znydA?si=jQ1mmBPB-pr7BktG) | [`Sequence.xlsx`](files/Sequence.xlsx) |
+| Day 3 | Custom List | [Tonton ▶️](https://youtube.com/shorts/H_cKgWGoFjc?si=GXDIevWImZVp789C) | [`CustomList.xlsx`](files/CustomList.xlsx) |
+| Day 4 | Unhide Column, Row, & Cell | [Tonton ▶️](https://youtube.com/shorts/exlWyrW6nlI?si=7gPSbS2luBqzyCsC) | [`Unhide.xlsx`](files/Unhide.xlsx) |
+| Day 5 | Skip Blank | [Tonton ▶️](https://youtube.com/shorts/SKjymh5b5xE?si=IXjgKG47TsV2X3BG) | [`SkipBlank.xlsx`](files/SkipBlank.xlsx) |
+| Day 6 | Autofit | [Tonton ▶️](https://youtube.com/shorts/8oTj_th26qE?si=uPs3a6nEVjKCRPwd) | [`Autofit.xlsx`](files/Autofit.xlsx) |
+| Day 7 | Transpose Data | [Tonton ▶️](https://youtube.com/shorts/hKCWPwfHauU?si=xo2EJce_QEtXVfqp) | [`Transpose.xlsx`](files/Transpose.xlsx) |
 
 > 🔄 **Update:** Seri ini akan terus bertambah setiap harinya. Jangan lupa star ⭐ repo ini dan subscribe channel YouTube-nya!
 

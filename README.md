@@ -22,7 +22,7 @@ Ini adalah repositori pendukung dari video tutorial singkat (YouTube Shorts) ten
 | Day 8 | Text to Columns | [Tonton ▶️](https://www.youtube.com/shorts/w5Lr6ArDNJk) | [`TextToColumns.csv`](files/TextToColumns.csv) |
 | Day 9 | Flash Fill | [Tonton ▶️](https://youtube.com/shorts/th2sTcy7l5E) | [`FlashFill.xlsx`](files/FlashFill.xlsx) |
 | Day 10 | Row Function | [Tonton ▶️](https://www.youtube.com/shorts/JCVJ9x843-M) | [`RowFunction.xlsx`](files/RowFunction.xlsx) |
-| Day 11 | Move Columns | [Tonton ▶️](https://www.youtube.com/shorts/4Q-gc2BoJaI) | [`MoveColumns.xlsx`](files/MoveColumns.xlsx) |
+| Day 11 | Move Columns | [Tonton ▶️](https://www.youtube.com/shorts/iSQ3YrRLVgY) | [`MoveColumns.xlsx`](files/MoveColumns.xlsx) |
 
 > 🔄 **Update:** Seri ini akan terus bertambah setiap harinya. Jangan lupa star ⭐ repo ini dan subscribe channel YouTube-nya!
 
